@@ -8,20 +8,20 @@ export const metadata: Metadata = {
   keywords: [
     "podcast",
     "diamonds are forever",
-    "robert lawrence",
+    "sports",
     "stories",
     "entertainment",
   ],
-  authors: [{ name: "Robert Lawrence", url: "https://art-web-nu.vercel.app/" }],
+  authors: [{ name: "Robert Lawrence", url: "https://diamonds-podcast.vercel.app/" }],
   openGraph: {
     title: "Diamonds are Forever | Podcast",
     description:
       "Explore the latest episodes of Diamonds are Forever, featuring engaging stories and unique perspectives.",
-    url: "https://your-site.vercel.app/", // Replace with your actual URL
+    url: "https://diamonds-podcast.vercel.app/", // Replace with your actual URL
     siteName: "Diamonds are Forever Podcast",
     images: [
       {
-        url: "https://wallpapers.com/images/hd/android-apple-xddzdvfueo0kfvj7.jpg",
+        url: "https://rslyhvvrmyezryvlmpva.supabase.co/storage/v1/object/public/images//logo.jpg",
         width: 1200,
         height: 630,
         alt: "Diamonds are Forever Podcast Preview",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     title: "Diamonds are Forever | Podcast",
     description:
       "Listen to Diamonds are Forever for stories that captivate and inspire.",
-    images: "https://wallpapers.com/images/hd/android-apple-xddzdvfueo0kfvj7.jpg",
+    images: "https://rslyhvvrmyezryvlmpva.supabase.co/storage/v1/object/public/images//logo.jpg",
   },
   icons: {
     icon: "/favicon.ico", // Ensure this file exists in public/
